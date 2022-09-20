@@ -35,6 +35,7 @@ to check your work.
 
 ## Deliverables
 
+
 - Two components, `<Navbar>` and `<Home>`, are already defined in the `App.js`
   file. Add both of these components as _child_ components of `<App>` by
   including them in the return statement for the `App` function.
